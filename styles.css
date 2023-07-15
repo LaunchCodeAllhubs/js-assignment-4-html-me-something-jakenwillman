@@ -18,7 +18,8 @@ body {
 h1, h2 {
     display: block;
     text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration-line: underline;
 }
 
 img {
