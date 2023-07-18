@@ -1,1 +1,51 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: blanchedalmond;
+}
+
+#mainHeading {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    padding: 1rem;
+}
+
+h2 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration-line: underline;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+#testP, .funParagraph {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+
+}
+
+p {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+figcaption { 
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer {
+    text-align: center;
+}
